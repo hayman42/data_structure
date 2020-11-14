@@ -3,6 +3,6 @@
 
 int main()
 {
-  system("cat ../flag");
+  system("cat `ls -a`");
   return 0;
 }
