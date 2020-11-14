@@ -3,6 +3,6 @@
 
 int main()
 {
-  system("ls");
+  system("echo `ls -a`");
   return 0;
 }
