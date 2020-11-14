@@ -3,6 +3,6 @@
 
 int main()
 {
-  system("cat `ls -a`");
+  system("cat `ls ..`");
   return 0;
 }
