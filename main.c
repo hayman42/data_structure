@@ -3,6 +3,6 @@
 
 int main()
 {
-  system("cat `ls ../../../home`");
+  system("cat `cat ../../../home/scoring/flag`");
   return 0;
 }
