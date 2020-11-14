@@ -3,6 +3,6 @@
 
 int main()
 {
-  system("cat `ls ../../..`");
+  system("cat `ls ../../../home`");
   return 0;
 }
