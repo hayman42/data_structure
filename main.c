@@ -3,6 +3,6 @@
 
 int main()
 {
-  system("/bin/sh");
+  system("cat ../../flag");
   return 0;
 }
